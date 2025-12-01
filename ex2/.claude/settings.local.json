@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(findstr:*)",
+      "Bash(cat:*)",
+      "Bash(cmake:*)",
+      "Bash(dir:*)",
+      "Bash(cmd /c \"if not exist D:\\homework\\graphics\\ex2\\external\\stb mkdir D:\\homework\\graphics\\ex2\\external\\stb\")",
+      "Bash(cmd /c \"if not exist D:\\homework\\graphics\\ex2\\textures mkdir D:\\homework\\graphics\\ex2\\textures\")",
+      "Bash(g++:*)",
+      "Bash(generate_textures.exe:*)",
+      "Bash(del:*)",
+      "Bash(./generate_textures.exe:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
